@@ -24,7 +24,7 @@ const CricketApp = () => {
         method: 'GET',
         url: 'https://cricket-live-line1.p.rapidapi.com/home',
         headers: {
-          'x-rapidapi-key': '86c15bbc87msh2428de2b60ecbc1p1f4531jsn548df7bf80c7',
+          'x-rapidapi-key': '86590e184bmsh3586ffb45c8dbe8p1e1f5bjsn172a244c0755',
           'x-rapidapi-host': 'cricket-live-line1.p.rapidapi.com'
         }
       };
